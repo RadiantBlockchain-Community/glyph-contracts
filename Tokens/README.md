@@ -32,5 +32,60 @@ Finalize the fork in your own repository:
 ![](../img/github-fork2.png)
 
 ----
+Go to the fork in your own repository and edit the file template.md
+![](../img/into-template.png)
+
+----
+Copy RAW code
+![](../img/copy-template.png)
+
+----
+Go to Tokens directory:
+
+![](../img/go-tokens.png)
+
+----
+Create a file with the token's TIKER in uppercase ending in .md, such as GLYPH.md
+![](../img/create-token.png)
+
+----
+
+1- Add TOKEN name with .md
+2- Past template RAW and edit with Token info
+
+![](../img/create-token2.png)
+
+----
+Once you have filled in the data, you now need to save it.
+![](../img/save-token-info.png)
+
+----
+Click on the link to create the PR to official repository:
+![](../img/create-pr.png)
+
+----
+Create pull request
+![](../img/create-pr2.png)
+
+----
+1- [ADD TOKEN] - Token Name
+2- Link to the publication in Discord.
+3- Create pull request.
+
+![](../img/create-pr3.png)
+
+----
+
+Once the PR is done, it will appear in the following link and will be open for review by someone from the community:
+
+https://github.com/RadiantBlockchain-Community/glyph-contracts/pulls
+
+![](../img/create-pr4.png)
 
 
+## PR Status
+There will be two statuses:
+
+- Accepted: the token data will be added to the community GITHUB and the contract will be added in the contracts.json file. From this moment on it will take about 24h to appear in GLIPH MINING.
+
+- Rejected: There is some incorrect data or it does not meet the rules to be added. If information is missing, it will be indicated that it needs to be changed and the creator will have to modify the template of his token.
