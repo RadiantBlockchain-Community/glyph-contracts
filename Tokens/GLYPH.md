@@ -1,13 +1,33 @@
 # GLYPH
 
-## TOKENOMICS
-✅ Max Supply:  1 Trillion  
-✅ Premine: 0  
-✅ Reward per mint: 50,000   
-✅ Contracts: 32   
-✅ Difficulty: 150 (static)  
+- Token Name: Glyph Protocol
+- Ticker: GLYPH
+- Data Create: 20-06-2024 12:31 UTC
+- Description: First token in Radiant and the official token of GLYPH miner.
 
-## CONTRACTS
+## Token info
+- Website: Not Yet
+- X: Not Yet
+- Discord: https://discord.gg/radiantblockchain
+
+## Tokenomics
+- Max Supply:  1 Trillion  
+- Premine: 0  
+- Reward per mint: 50,000   
+- Contracts: 32   
+- Difficulty: 150 (static)  
+
+## Radiant ID
+```
+a443d9df469692306f7a2566536b19ed7909d8bf264f5a01f5a9b171c7c3878b
+```
+
+## Mint
+```
+b965b32dba8628c339bc39a3369d0c46d645a77828aeb941904c77323bb99dd6
+```
+
+## Contracts
 
 ```
 a443d9df469692306f7a2566536b19ed7909d8bf264f5a01f5a9b171c7c3878b00000001
