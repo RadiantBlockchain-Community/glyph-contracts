@@ -1,4 +1,4 @@
-# GLYPH
+# Glyph Protocol
 
 - Token Name: Glyph Protocol
 - Ticker: GLYPH
@@ -11,7 +11,7 @@
 - Discord: https://discord.gg/radiantblockchain
 
 ## Tokenomics
-- Max Supply:  1 Trillion  
+- Max Supply: 1 Trillion  
 - Premine: 0  
 - Reward per mint: 50,000   
 - Contracts: 32   
