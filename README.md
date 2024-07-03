@@ -1,6 +1,8 @@
 # Contracts integrated in GLYPH mining
 
-**Disclaimer:** This Github is not responsible for the creation, origin, use of the embedded contracts. 
+![](img/mining-contracts.png)
+
+**Disclaimer:** This Github is **NOT** responsible for the creation, origin, use of the embedded contracts. 
 
 ## Conditions for adding contracts
 
@@ -18,9 +20,11 @@ These conditions will be updated as we review the embedded tokens.
 
 Follow this guide:
 
-[GUIDE](Tokens/README.md)
+- [Guide](Tokens/README.md)
 
-If you have any questions, ask us in our Discord:
+If you have any questions, ask us in our **Discord**:
 
 [https://discord.gg/radiantblockchain](https://discord.gg/radiantblockchain)
+
+**GLYPH MINING URL**: [https://glyph.radiant4people.com](https://glyph.radiant4people.com)
 

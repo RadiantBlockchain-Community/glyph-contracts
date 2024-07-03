@@ -116,3 +116,7 @@ There will be two statuses:
 
 - **Accepted**: the token data will be added to the community GITHUB and the contract will be added in the contracts.json file. From this moment on it will take about 24h to appear in GLIPH MINING.  
 - **Rejected**: There is some incorrect data or it does not meet the rules to be added. If information is missing, it will be indicated that it needs to be changed and the creator will have to modify the template of his token.
+
+----
+
+**GLYPH MINING**: [https://glyph.radiant4people.com](https://glyph.radiant4people.com)
