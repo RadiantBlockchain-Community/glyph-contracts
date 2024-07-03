@@ -2,7 +2,7 @@
 
 - Token Name: 
 - Ticker: 
-- Data Create: 01-01-2024 12:00 UTC
+- Data Create: 31-12-2024 23:00 UTC
 - Description: 
 
 ## Token info

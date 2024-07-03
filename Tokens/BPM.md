@@ -1,10 +1,9 @@
-# TOKEN NAME HERE
+# Beatz per Mint
 
 - Token Name: Beatz per Mint
 - Ticker: BPM
 - Data Create:  — 07/01/2024 1:59 AM
-- Description: The future of sound is Radiant and one day this tokens 
-may be redeemed for NFT beatz made by Xstream exclusive on RXD.
+- Description: The future of sound is Radiant and one day this tokens may be redeemed for NFT beatz made by Xstream exclusive on RXD.
 
 ## Token info
 - Website: 
