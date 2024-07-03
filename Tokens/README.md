@@ -28,64 +28,68 @@ When you are logged in with your account, you must go to the following address:
 
 https://github.com/RadiantBlockchain-Community/glyph-contracts
 
+----
+
 #### Click on the Fork button:
 
-![](../img/github-fork.png)
+<img src="../img/github-fork.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
 #### Finalize the fork in your own repository:
 
-![](../img/github-fork2.png)
+<img src="../img/github-fork2.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
-Go to the fork in your own repository and edit the file template.md
 
-![](../img/into-template.png)
+####  Go to the fork in your own repository and edit the file template.md
+
+<img src="../img/into-template.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
 #### Copy RAW code
 
-![](../img/copy-template.png)
+<img src="../img/copy-template.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
-### Go to Tokens directory:
+#### Go to Tokens directory:
 
-![](../img/go-tokens.png)
+<img src="../img/go-tokens.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
 #### Create a file with the token's TIKER in uppercase ending in .md, such as GLYPH.md
 
-![](../img/create-token.png)
+<img src="../img/create-token.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
 #### Create Token file  
+
 1. Add TOKEN name with .md.
 2. Past template RAW and edit with Token info
 
-![](../img/create-token2.png)
+<img src="../img/create-token2.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
 #### Once you have filled in the data, you now need to save it.
 
-![](../img/save-token-info.png)
+<img src="../img/save-token-info.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
 #### Click on the link to create the PR to official repository:
 
-![](../img/create-pr.png)
+<img src="../img/create-pr.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
 #### Create pull request
 
-![](../img/create-pr2.png)
+<img src="../img/create-pr2.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
@@ -94,7 +98,7 @@ Go to the fork in your own repository and edit the file template.md
 2. Link to the publication in Discord.
 3. Create pull request.
 
-![](../img/create-pr3.png)
+<img src="../img/create-pr3.png" alt="Alt text" style="border: solid 0.1em;">
 
 ----
 
@@ -102,8 +106,9 @@ Go to the fork in your own repository and edit the file template.md
 
 https://github.com/RadiantBlockchain-Community/glyph-contracts/pulls
 
-![](../img/create-pr4.png)
+<img src="../img/create-pr4.png" alt="Alt text" style="border: solid 0.1em;">
 
+----
 
 ## PR Status
 
