@@ -119,4 +119,6 @@ There will be two statuses:
 
 ----
 
-**GLYPH MINING**: [https://glyph.radiant4people.com](https://glyph.radiant4people.com)
+## GLYPH MINING
+
+[https://glyph.radiant4people.com](https://glyph.radiant4people.com)
