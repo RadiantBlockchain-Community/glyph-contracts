@@ -20,7 +20,7 @@ Example:
 
 ## Github
 
-To add the token to the official GLYPH MINING archive you need to have a Github account and follow the steps below:
+To add the token to the official GLYPH MINING LIST, you need to have a Github account and follow the steps below:
 
 ### Create a fork of the repository
 
