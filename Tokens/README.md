@@ -12,7 +12,7 @@
 
 Before making the request on Github, it is necessary that the token is first published on Radiant's Discord in the #tokens-listings channel.
 
-Discord: https://discord.gg/radiantblockchain
+**Discord**: [https://discord.gg/radiantblockchain](https://discord.gg/radiantblockchain)
 
 Example:
 
@@ -26,7 +26,7 @@ To add the token to the official GLYPH MINING LIST, you need to have a Github ac
 
 When you are logged in with your account, you must go to the following address:
 
-https://github.com/RadiantBlockchain-Community/glyph-contracts
+[https://github.com/RadiantBlockchain-Community/glyph-contracts](https://github.com/RadiantBlockchain-Community/glyph-contracts)
 
 ----
 
@@ -104,7 +104,7 @@ https://github.com/RadiantBlockchain-Community/glyph-contracts
 
 #### Once the PR is done, it will appear in the following link and will be open for review by someone from the community:
 
-https://github.com/RadiantBlockchain-Community/glyph-contracts/pulls
+[https://github.com/RadiantBlockchain-Community/glyph-contracts/pulls](https://github.com/RadiantBlockchain-Community/glyph-contracts/pulls)
 
 <img src="../img/create-pr4.png" alt="Alt text" style="border: solid 0.1em;">
 

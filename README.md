@@ -22,5 +22,5 @@ Follow this guide:
 
 If you have any questions, ask us in our Discord:
 
-https://discord.gg/radiantblockchain
+[https://discord.gg/radiantblockchain](https://discord.gg/radiantblockchain)
 
