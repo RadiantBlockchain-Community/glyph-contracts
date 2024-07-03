@@ -26,5 +26,7 @@ If you have any questions, ask us in our **Discord**:
 
 [https://discord.gg/radiantblockchain](https://discord.gg/radiantblockchain)
 
-**GLYPH MINING URL**: [https://glyph.radiant4people.com](https://glyph.radiant4people.com)
+----
+
+**GLYPH MINING**: [https://glyph.radiant4people.com](https://glyph.radiant4people.com)
 
