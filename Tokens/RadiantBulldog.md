@@ -1,4 +1,4 @@
-# TOKEN NAME HERE
+# RADIANTBULLDOG
 
 - Token Name: RadiantBulldog
 - Ticker: $RBG
