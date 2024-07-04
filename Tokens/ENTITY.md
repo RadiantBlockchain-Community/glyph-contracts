@@ -1,4 +1,4 @@
-# TOKEN NAME HERE
+# The Entity
 
 - Token Name: The Entity
 - Ticker: ENTITY
