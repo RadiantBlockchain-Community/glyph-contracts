@@ -6,7 +6,7 @@
 - Description: Queen of Meme Tokens & I hate PoS ecosystem.
 
 ## Token info
-- Website: https://bitqueenco.github.io
+- Website: https://bit.ly/bitqueenco
 - X: https://x.com/bitqueenco
 - Discord: 
 
