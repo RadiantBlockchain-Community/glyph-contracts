@@ -1,4 +1,4 @@
-# TOKEN NAME HERE
+# Gravity
 
 - Token Name: Gravity
 - Ticker: GRAVITY

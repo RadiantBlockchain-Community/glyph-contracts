@@ -1,4 +1,4 @@
-# TOKEN NAME HERE
+# RXD ASIC
 
 - Token Name: RXD ASIC
 - Ticker: RXDASIC
