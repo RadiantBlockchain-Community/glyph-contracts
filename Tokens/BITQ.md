@@ -2,7 +2,7 @@
 
 - Token Name: BitQueen
 - Ticker: BITQ
-- Data Create: 05-07-2024 04:26 UTC
+- Data Create: 06-07-2024 21:08 UTC
 - Description: Queen of Meme Tokens & I hate PoS ecosystem.
 
 ## Token info
@@ -19,16 +19,16 @@
 
 ## Radiant ID
 ```
-85a8ddcc7e7150fe09b567c717d60d6ea305c3a90ff6fbc22ecd7df94a97f9da00000002
+fa399503623f0d2ac6427024c990abc2d5904e1f0a8a9f0c2fa059663d2cc84600000002
 ```
 
 ## Mint
 ```
-6e05c5420829ae3862c1e31d887728788ef7e3c413c7255e834669bff168019700000002
+25aa136af55a7ef15a9d12933546cf1885b26d7a722c25da17e05828750395ae00000002
 ```
 
 ## Contracts
 
 ```
-85a8ddcc7e7150fe09b567c717d60d6ea305c3a90ff6fbc22ecd7df94a97f9da00000001
+fa399503623f0d2ac6427024c990abc2d5904e1f0a8a9f0c2fa059663d2cc84600000001
 ```
