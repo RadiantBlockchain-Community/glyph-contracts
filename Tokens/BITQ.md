@@ -2,7 +2,7 @@
 
 - Token Name: BitQueen
 - Ticker: BITQ
-- Data Create: 05-07-2024 04:26 UTC
+- Data Create: 06-07-2024 21:08 UTC
 - Description: Queen of Meme Tokens & I hate PoS ecosystem.
 
 ## Token info
