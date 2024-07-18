@@ -1,0 +1,40 @@
+# TOKEN NAME HERE
+
+- Token Name: Meretrix
+- Ticker: MERi
+- Data Create: 07-18-2024 12:08 UTC
+- Description: Token for Courtesans
+
+## Token info
+- Website: https://bico.media/84819fb94ab97abb99940d69e70c3dccb82f453357610fe9e1490e2727bc7e8f
+- X: 
+- Discord: 
+
+## Tokenomics
+- Max Supply:  176720
+- Premine:   0
+- Reward per mint:  47
+- Contracts:   8
+- Difficulty: 47
+
+## Radiant ID
+```
+245923494cdaf929b6d8bef8248e8d2f5adb5deb59e94313320b01e2e8d027bd00000009
+```
+
+## Mint
+```
+acf4c5ae696faedc6d631f392dd0179cf68c506d8d23085850133065e395291600000009
+```
+
+## Contracts
+
+```
+245923494cdaf929b6d8bef8248e8d2f5adb5deb59e94313320b01e2e8d027bd00000001
+245923494cdaf929b6d8bef8248e8d2f5adb5deb59e94313320b01e2e8d027bd00000002
+245923494cdaf929b6d8bef8248e8d2f5adb5deb59e94313320b01e2e8d027bd00000003
+245923494cdaf929b6d8bef8248e8d2f5adb5deb59e94313320b01e2e8d027bd00000004
+245923494cdaf929b6d8bef8248e8d2f5adb5deb59e94313320b01e2e8d027bd00000005
+245923494cdaf929b6d8bef8248e8d2f5adb5deb59e94313320b01e2e8d027bd00000006
+245923494cdaf929b6d8bef8248e8d2f5adb5deb59e94313320b01e2e8d027bd00000007
+```
