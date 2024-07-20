@@ -3,7 +3,7 @@
 - Token Name: Resplendent Zirconium Binary Token
 - Ticker: RZBT
 - Data Create: 20-07-2024 23:00 UTC
-- Description: RZB Token for the Radiant blockchain
+- Description: RZB Token for the Radiant blockchain created by bzbElder, a fan of Radiant!
 
 ## Token info
 - Website: http://www.codephreeze.com/
