@@ -1,4 +1,4 @@
-# TOKEN NAME HERE
+Resplendent Zirconium Binary Token
 
 - Token Name: Resplendent Zirconium Binary Token
 - Ticker: RZBT
@@ -13,7 +13,7 @@
 ## Tokenomics
 - Max Supply:  2,100,000
 - Premine:   0
-- Reward per mint:  10
+- Reward per mint:  20
 - Contracts:   10
 - Difficulty: 20
 
