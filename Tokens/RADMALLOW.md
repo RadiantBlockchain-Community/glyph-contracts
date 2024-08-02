@@ -9,7 +9,7 @@ RadMallow Racer, a web-based Unity blockchain game, is introducing its own meme 
 
 888 Unique RadMallows
 
-Collect one of the 888 unique RadMallows, celebrating the adorable SquishMallow craze. 
+Collect one of the 888 unique RadMallows, celebrating the adorable SquishMallow craze.
 Race Your Way
 * Arcade Mode: Play for fun and hone your racing skills.
 * PinkSlip Mode: Get wild! Race your RadMallow Glyph NFT against another player and winner takes both!
