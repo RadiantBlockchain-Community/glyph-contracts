@@ -1,14 +1,14 @@
 # xeneize
 
-  - Token Name: XENEIZE
+- Token Name: XENEIZE
 - Ticker: XENEIZE
 - Data Create: 01-18-2025 12:00 UTC
-- Description: LOCURA XENEIZE - PUEBLO BOQUENSE 
+- Description: Primer Token del Pueblo Boquense en la #Blockchain de #Radiant, mineable por GPU y PoW. Locura #Xeneize #Boca Pueblo Xeneize
 
 ## Token info
 - Website: 
 - X: https://x.com/XeneizeRXD
-- - Discord: 
+- Discord: 
 
 ## Tokenomics
 - Max Supply:  10,000,000,000
